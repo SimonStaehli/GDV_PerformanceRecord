@@ -1,2 +1,2 @@
 # GDV_PerformanceRecord
-Performance Record for GDV
+Full Code Documentation and Data Documentation to the Document Performance Record for Fundamentals of Data Visualization.
